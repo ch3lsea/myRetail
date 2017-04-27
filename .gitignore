@@ -1,0 +1,20 @@
+Thumbs.db
+.DS_Store
+.gradle
+build/
+.idea
+*.iml
+*.ipr
+*.iws
+/out
+.project
+.settings
+.classpath
+
+# jenv
+.java-version
+.ruby-version
+
+# logs
+/stacktrace.log
+/logs
